@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>The Caffiene Factor Landing Page</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+    <section>
+        <header>
+            <a href="#" class="logo"><img class="img1" src="caffieen.png"></a>
+            <ul>
+              <li><a href="#">Home</a></li>
+              <li><a href="#">Menu</a></li>
+              <li><a href="#">What's New</a></li>
+              <li><a href="#">Contact</a></li>
+            </ul>   
+        </header>
+
+
+        <div class="content">
+            <div class="textbox"></div>
+            <h2>It's not just coffee<br> It's <span>The Caffiene Factor </span> we are the best coffee around</h2>
+           
+
+              <div class="imgbox"><img src="frap.png" class="starbucks"> </div> 
+
+        </div>
+
+    </section>       
+</body>
+</html>

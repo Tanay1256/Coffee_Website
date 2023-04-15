@@ -1,0 +1,74 @@
+.img1{
+
+width:100px;
+height:100px;
+border-radius: 50%;
+
+}
+section{
+    position:relative;
+    align-items: center;
+    display:flex;
+    justify-content: space-between;
+    padding:100px;
+
+}
+header
+{
+    position:absolute;
+align-items: center;
+display:flex;
+justify-content: space-between;
+top:0;
+left:0;
+padding:20px 100px;
+}
+header ul
+{
+position:relative;
+display:flex;
+
+}
+header ul li
+{
+    list-style: none;
+    align-items: right;
+}
+
+header ul li a
+{
+   display:inline-block; 
+   margin-left: 40px;
+    font-weight: 400 ;
+    color:#333;
+    text-decoration: none;
+}
+.content
+{
+    position:relative;
+    align-items: center;
+    display:flex;
+    justify-content: space-between; 
+    padding:100px;
+
+}
+.content .textbox
+{
+position:relative;
+display: inline-block;
+margin-top:20px;
+font-weight: 500;
+
+}
+.content .imgbox
+{
+    display: flex;
+    width:600px;
+    justify-content: flex-end;
+}
+
+body{background-image: url("coffeeback.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+
+}
